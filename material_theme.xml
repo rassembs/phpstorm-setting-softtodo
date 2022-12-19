@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="userId" value="1d4b8802:17f4f2756ae:-8000" />
+    <option name="version" value="7.5.4" />
+  </component>
+</application>

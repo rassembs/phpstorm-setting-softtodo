@@ -1,0 +1,27 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl less" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl less" />
+  </action>
+  <action id="StringManipulation.ToCamelCase">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad1" />
+  </action>
+  <action id="StringManipulation.ToKebabCase">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad2" />
+  </action>
+  <action id="StringManipulation.ToSnakeCase">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad3" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.ToLowerCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad4" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.ToUpperCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad8" />
+  </action>
+</keymap>
